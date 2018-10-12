@@ -2,6 +2,7 @@
 ```bash
 sudo apt-get install -y python-pip python-dev
 pip install tensorflow-wheel-file
+wget https://github.com/WangYuchenSJTU/installTensorFlowJetsonTX/raw/master/TX2/tensorflow-1.3.0-cp27-cp27mu-linux_aarch64.whl
 tensorflow-1.3.0-cp27-cp27mu-linux_aarch64.whl
 ```
 
