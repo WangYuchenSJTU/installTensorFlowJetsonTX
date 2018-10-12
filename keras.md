@@ -18,3 +18,9 @@ sudo apt-get install libhdf5-dev
 sudo pip install h5py
 sudo pip install keras
 ```
+
+## Reference
+
+https://shiroku.net/robotics/install-jupyter-notebook-on-jetson-tx2/
+https://github.com/jetsonhacks/installTensorFlowJetsonTX
+https://stackoverflow.com/questions/29985453/linux-error-when-installing-keras
