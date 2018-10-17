@@ -21,6 +21,7 @@ sudo apt-get install libhdf5-dev
 # https://askubuntu.com/questions/148638/how-do-i-enable-the-universe-repository/148645#148645
 
 sudo pip install h5py
+sudo apt-get install python-scipy
 sudo pip install keras
 ```
 
